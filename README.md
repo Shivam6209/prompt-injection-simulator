@@ -2,6 +2,10 @@
 
 An interactive web application to test and evaluate prompt injection attacks and defense mechanisms against AI language models.
 
+## Live Demo
+
+🚀 Try it out: [Prompt Injection Simulator](https://prompt-injection-simulator.vercel.app/)
+
 ## Overview
 
 This simulator allows users to:
@@ -23,7 +27,7 @@ This simulator allows users to:
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/yourusername/prompt-injection-simulator.git
 cd prompt-injection-simulator
 ```
 
@@ -42,6 +46,16 @@ npm run dev
 ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+## Deployment
+
+The application is deployed on Vercel. You can:
+- Fork this repository
+- Connect it to your Vercel account
+- Add your OpenAI API key to the environment variables
+- Deploy with one click
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fprompt-injection-simulator)
 
 ## Features
 
